@@ -605,7 +605,7 @@
                             <div class="work-content">
                                 <h3 class="work-title">UWON - unfinished</h3>
                                 <ul>
-                                    <li><a class="image-popup" href="assets/images/work/uwon-page.JPG"><span class="icon-eye"></span></a></li>
+                                    <li><a class="image-popup" href="assets/images/work/uwon-page.jpg"><span class="icon-eye"></span></a></li>
                                     <li><a href="http://uwon-logistics.herokuapp.com/" target="_blank"><span class="icon-link"></span></a></li>
                                 </ul>
                             </div>
