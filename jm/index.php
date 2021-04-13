@@ -682,7 +682,7 @@
                                 <textarea name="message" placeholder="Message" required></textarea>
                             </div> <!-- single form -->
                             <div class="single-form">
-                                <div class="g-recaptcha" data-sitekey="6Lc5xwAaAAAAADbBH2SKzw6eqXuyRU5kg23dqkyD"></div>
+                                <div class="g-recaptcha" data-sitekey="6LeyoKcaAAAAAHeF5wtMR7iAb4rkHPpiEG2FuaDQ"></div>
                             </div> <!-- single form -->
 
                             <p class="form-message"></p>
