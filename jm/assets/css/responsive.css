@@ -1,0 +1,270 @@
+/*================================================
+    START OF MIN WIDTH: 576px AND MAX WIDTH: 767px
+==================================================*/
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    /* ABOUT START CSS */
+    .about-content ul li {
+      width: 50%;
+      float: left; 
+    } 
+    /* ABOUT END CSS */
+}
+/*================================================
+    END OF MIN WIDTH: 576px AND MAX WIDTH: 767px
+==================================================*/
+
+
+/*===========================
+   START OF MAX WIDTH: 767px
+===========================*/
+@media (max-width: 767px) {
+
+    /* COMMON START CSS */
+    p {
+      font-size: 15px; 
+    } 
+    .section-title .title {
+        font-size: 30px; 
+    } 
+    /* COMMON END CSS */
+
+    /* HEADER START CSS */
+    .navigation .navbar .navbar-collapse {
+        position: absolute;
+        top: 158%;
+        left: 0;
+        width: 100%;
+        background-color: #fff;
+        z-index: 99;
+        -webkit-box-shadow: 0px 10px 15px 0px rgba(134, 134, 134, 0.15);
+        -moz-box-shadow: 0px 10px 15px 0px rgba(134, 134, 134, 0.15);
+        box-shadow: 0px 10px 15px 0px rgba(134, 134, 134, 0.15);
+        padding: 3px 12px; 
+    }
+    .navigation .navbar .navbar-nav .nav-item {
+        margin: 4px 0; 
+    } 
+    .navigation .navbar .navbar-nav .nav-item a::before {
+        display: none; 
+    }
+    .header-content {
+        height: 550px; 
+    }
+     
+    .header-content-right .sub-title {
+        font-size: 24px; 
+    }
+    .header-content-right .title {
+        font-size: 38px; 
+    }
+ 
+    /* HEADER END CSS */
+
+    /* ABOUT START CSS */
+    .about-area {
+        padding-top: 70px;
+        padding-bottom: 80px; 
+    }
+    .about-content ul li {
+        width: 100%;
+        float: none; 
+    }
+    /* ABOUT END CSS */
+
+    /* SERVICES START CSS */
+    .services-area {
+        padding-top: 70px;
+        padding-bottom: 80px; 
+    }    
+    .single-service {
+        padding: 15px; 
+    } 
+    /* SERVICES END CSS */ 
+
+    /* CALL TO ACTION START CSS */
+    .call-to-action {
+        padding-top: 70px;
+        padding-bottom: 80px; 
+    }
+    .call-action-content .action-title {
+        font-size: 30px; 
+    }
+    /* CALL TO ACTION END CSS */
+
+    /* WORK START CSS */
+    .work-area {
+        padding-top: 70px;
+        padding-bottom: 80px; 
+    }
+    /* WORK END CSS */
+
+    /* CONTACTS START CSS */
+    .contact-area {
+        padding-top: 70px;
+        padding-bottom: 80px; 
+    }
+    .contact-box {
+        padding: 30px 25px; 
+    }
+    /* CONTACTS END CSS */
+
+    
+    /* FOOTER START CSS */
+    .footer-widget {
+        padding-top: 100px;
+        padding-bottom: 100px; 
+    }
+    .footer-content ul li {
+        margin: 0 7px
+    }
+    .footer-content ul li a {
+        width: 52px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 20px; 
+    }
+    /* FOOTER END CSS */
+     /* PAGE BANNER START CSS */
+     .page-banner {
+        padding-top: 73px;
+        padding-bottom: 72px; 
+    }
+    .page-banner-content .page-title {
+        font-size: 28px; 
+    }
+    /* PAGE BANNER END CSS */
+}
+/*===========================
+    END OF MAX WIDTH: 767px
+===========================*/
+ 
+
+/*================================================
+    START OF MIN WIDTH: 768px AND MAX WIDTH: 991px
+==================================================*/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  
+    /* HEADER START CSS */
+    .navigation .navbar .navbar-collapse {
+      position: absolute;
+      top: 158%;
+      left: 0;
+      width: 100%;
+      background-color: #fff;
+      z-index: 99;
+      -webkit-box-shadow: 0px 10px 15px 0px rgba(134, 134, 134, 0.15);
+      -moz-box-shadow: 0px 10px 15px 0px rgba(134, 134, 134, 0.15);
+      box-shadow: 0px 10px 15px 0px rgba(134, 134, 134, 0.15);
+      padding: 3px 12px; } 
+
+    .navigation .navbar .navbar-nav .nav-item {
+    margin: 4px 0; 
+    }
+    .navigation .navbar .navbar-nav .nav-item a::before {
+        display: none; 
+    }
+    .header-content {
+        height: 550px; 
+    }
+
+    /* HEADER END CSS */
+
+    /* ABOUT START CSS */
+    .about-area {
+        padding-top: 90px;
+        padding-bottom: 100px; 
+    }
+    /* ABOUT END CSS */
+    
+    /* SERVICES START CSS */
+    .services-area {
+        padding-top: 90px;
+        padding-bottom: 100px; 
+    }
+    /* SERVICES END CSS */
+
+    /* CALL TO ACTION START CSS */
+    .call-to-action {
+        padding-top: 90px;
+        padding-bottom: 100px; 
+    }
+    /* CALL TO ACTION END CSS */
+
+    /* WORK START CSS */
+    .work-area {
+        padding-top: 90px;
+        padding-bottom: 100px; 
+    }
+    /* WORK END CSS */
+
+    /* CONTACTS START CSS */
+    .contact-area {
+        padding-top: 90px;
+        padding-bottom: 100px; 
+    }
+    /* CONTACTS END CSS */
+
+    /* PAGE BANNER START CSS */
+    .page-banner {
+        padding-top: 88px;
+        padding-bottom: 92px; 
+    }
+    .page-banner-content .page-title {
+        font-size: 38px; 
+    }
+     /* PAGE BANNER END CSS */
+ 
+}
+ 
+/*================================================
+    END OF MIN WIDTH: 768px AND MAX WIDTH: 991px
+==================================================*/
+
+
+/*===========================
+   START OF MAX WIDTH: 992px
+===========================*/
+
+@media (max-width: 992px){
+  /* HEADER START CSS */
+  #contact-bar
+  {
+      display: none;
+  }
+  .navigation .navbar .navbar-collapse ul li.active::after
+  {
+    display: none;
+  }
+  .header-shape
+  {
+      display: none !important;
+  }
+  /* HEADER END CSS */
+}
+
+/*===========================
+   END OF MAX WIDTH: 992px
+===========================*/
+
+
+
+/*================================================
+    START OF MAX WIDTH: 992px AND MAX WIDTH: 1200px
+==================================================*/
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    /* ABOUT START CSS */
+    .about-content ul li {
+      width: 100%;
+      float: none; 
+    } 
+    /* ABOUT END CSS */
+
+    /* CONTACTS START CSS */
+    .contact-box {
+        padding: 30px 25px; 
+    }
+    /* CONTACTS END CSS */
+}
+/*================================================
+    END OF MAX WIDTH: 992px AND MAX WIDTH: 1200px
+==================================================*/
