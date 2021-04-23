@@ -479,7 +479,7 @@
                             <div class="work-content">
                                 <h3 class="work-title">MIAA Website</h3>
                                 <ul>
-                                    <li><a class="image-popup" href="assets/images/work/mnl-page.jpg"><span class="icon-eye"></span></a></li>
+                                    <li><a class="image-popup" href="assets/images/work/mnl-page.JPG"><span class="icon-eye"></span></a></li>
                                     <!-- <li><a href="http://demosite.cits.com.ph/" target="_blank"><span class="icon-link"></span></a></li> -->
                                 </ul>
                             </div>
@@ -497,7 +497,7 @@
                             <div class="work-content">
                                 <h3 class="work-title">C.I.T.S. Website</h3>
                                 <ul>
-                                    <li><a class="image-popup" href="assets/images/work/cits-page.jpg"><span class="icon-eye"></span></a></li>
+                                    <li><a class="image-popup" href="assets/images/work/cits-page.JPG"><span class="icon-eye"></span></a></li>
                                     <li><a href="http://www.cits.com.ph/" target="_blank"><span class="icon-link"></span></a></li>
                                 </ul>
                             </div>
@@ -515,7 +515,7 @@
                             <div class="work-content">
                                 <h3 class="work-title">Casa Marcelino</h3>
                                 <ul>
-                                    <li><a class="image-popup" href="assets/images/work/casam-page.jpg"><span class="icon-eye"></span></a></li>
+                                    <li><a class="image-popup" href="assets/images/work/casam-page.JPG"><span class="icon-eye"></span></a></li>
                                     <li><a href="http://casamarcelinos.herokuapp.com/" target="_blank"><span class="icon-link"></span></a></li>
                                 </ul>
                             </div>
