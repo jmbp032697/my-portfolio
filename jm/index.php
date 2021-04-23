@@ -784,8 +784,7 @@
     <!--====== Main js ======-->
     <script src="assets/js/main.js"></script>
  
-
-<!-- 
+ 
     <script>
         
 document.addEventListener('contextmenu', event => event.preventDefault());
@@ -809,7 +808,11 @@ document.onkeydown = function(e) {
         return false;
         }      
     }
-    </script> -->
+
+
+    document.getElementById("submit").disabled = true;
+
+    </script>  
 
   
 
