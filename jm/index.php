@@ -231,7 +231,7 @@
                 <div class="col-lg-6">
                     <div class="about-content mt-50">
                         <h5 class="about-title">Hi There! I'm John Matthew B. Perez</h5>
-                        <p>I have over 4 years of industry experience, adn have been part of design and development projects including Manila International Airport Authority, Competitive I.T. Solutions Inc. and many others.</p>
+                        <p>Adaptable professional with 6 years of work experience and proven knowledge of leadership, problem-solving, and workflow prioritization.</p>
                         <ul class="clearfix">
                             <li>
                                 <div class="single-info d-flex align-items-center">
@@ -269,7 +269,7 @@
                                         <span class="icon-location-alt"></span>
                                     </div>
                                     <div class="info-text">
-                                        <p>San Juan City, PH</p>
+                                        <p>Sinisian, Calaca, Batangas</p>
                                     </div>
                                 </div> <!-- single info -->
                             </li>
@@ -445,7 +445,7 @@
                         <h2 class="action-title">Projects? I can help you.</h2>
                         <p>My mom said that  I'm good. Well, we all know that mother's knows best. <img src="assets/images/smile.png" alt="smile"/></p>
                         <ul>
-                            <li><a class="main-btn custom" href="assets/resume.docx" target="_blank">download cv</a></li>
+                            <li><a class="main-btn custom" href="assets/john_matthew_perez_resume.pdf   " target="_blank">download cv</a></li>
                             <li><a class="main-btn main-btn page-scroll"href="#contact">hire me</a></li>
                         </ul>
                     </div> <!-- call action content -->
@@ -641,7 +641,7 @@
                         </div>
                         <div class="contact-content">
                             <h6 class="contact-title">Address</h6>
-                            <p>San Juan City</p>
+                            <p>Batangas City</p>
                         </div>
                     </div> <!-- contact box -->
                 </div>
@@ -683,7 +683,7 @@
                             </div> <!-- single form -->
                             <div class="single-form">
                                 <div class="g-recaptcha" data-sitekey="6LeyoKcaAAAAAHeF5wtMR7iAb4rkHPpiEG2FuaDQ"></div>
-                            </div> <!-- single form -->
+                            </div> 
 
                             <p class="form-message"></p>
                             <div class="single-form">
@@ -695,7 +695,7 @@
                 <div class="col-lg-6">
                     <div class="contact-map mt-60">
                         <div class="gmap_canvas">                            
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30887.546490666013!2d121.02186662869154!3d14.602305176912362!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397c829f85e1571%3A0xe9ed7073390ef434!2sSan%20Juan%2C%20Metro%20Manila!5e0!3m2!1sen!2sph!4v1590531266667!5m2!1sen!2sph" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30979.73086923293!2d120.83372930500703!3d13.930814874822929!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33bda054bf935407%3A0x8fd1026c1647f135!2sSinisian%2C%20Batangas!5e0!3m2!1sen!2sph!4v1662848317347!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     </div> <!-- contact map -->
                 </div>
@@ -733,7 +733,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="copyright-text text-center pt-20">
-                            <p>Copyright © 2021 John Matthew B. Perez</p>
+                            <p>Copyright © 2022 John Matthew B. Perez</p>
                         </div> <!-- copyright text -->
                     </div>
                 </div> <!-- row -->
@@ -809,8 +809,7 @@ document.onkeydown = function(e) {
         }      
     }
 
-
-    document.getElementById("submit").disabled = true;
+ 
 
     </script>  
 
