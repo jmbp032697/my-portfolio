@@ -469,6 +469,96 @@
                 </div>
             </div> <!-- row -->
             <div class="row"> 
+                <!-- PRAESTO -->
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="single-work text-center mt-30">
+                        <div class="work-image">
+                            <img src="assets/images/work/praesto-logo.jpg" alt="work">
+                        </div>
+                        <div class="work-overlay">
+                            <div class="work-content">
+                                <h3 class="work-title">Præstø Vingård</h3>
+                                <ul>
+                                    <li><a class="image-popup" href="assets/images/work/praesto-page.jpg"><span class="icon-eye"></span></a></li>
+                                    <li><a href="https://praestoevingaard.dk" target="_blank"><span class="icon-link"></span></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div> <!-- single work -->
+                </div>
+                <!-- END OF PRAESTO -->
+                <!-- ALBERTSLUND-VVS -->
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="single-work text-center mt-30">
+                        <div class="work-image">
+                            <img src="assets/images/work/albertslund-vvs-logo.jpg" alt="work">
+                        </div>
+                        <div class="work-overlay">
+                            <div class="work-content">
+                                <h3 class="work-title">Albertslund-VVS</h3>
+                                <ul>
+                                    <li><a class="image-popup" href="assets/images/work/albertslund-vvs-page.jpg"><span class="icon-eye"></span></a></li>
+                                    <li><a href="https://www.albertslund-vvs.dk" target="_blank"><span class="icon-link"></span></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div> <!-- single work -->
+                </div>
+                <!-- END OF ALBERTSLUND-VVS -->
+                <!-- STEGEBEGRAVELSE -->
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="single-work text-center mt-30">
+                        <div class="work-image">
+                            <img src="assets/images/work/stegebegravelse-logo.jpg" alt="work">
+                        </div>
+                        <div class="work-overlay">
+                            <div class="work-content">
+                                <h3 class="work-title">Stegebegravelse</h3>
+                                <ul>
+                                    <li><a class="image-popup" href="assets/images/work/stegebegravelse-page.jpg"><span class="icon-eye"></span></a></li>
+                                    <li><a href="https://www.stegebegravelse.dk" target="_blank"><span class="icon-link"></span></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div> <!-- single work -->
+                </div>
+                <!-- END OF STEGEBEGRAVELSE -->
+                <!-- DBOSS -->
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="single-work text-center mt-30">
+                        <div class="work-image">
+                            <img src="assets/images/work/dboss-logo.jpg" alt="work">
+                        </div>
+                        <div class="work-overlay">
+                            <div class="work-content">
+                                <h3 class="work-title">Dboss</h3>
+                                <ul>
+                                    <li><a class="image-popup" href="assets/images/work/dboss-page.jpg"><span class="icon-eye"></span></a></li>
+                                    <li><a href="https://dboss.dk" target="_blank"><span class="icon-link"></span></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div> <!-- single work -->
+                </div>
+                <!-- END OF DBOSS -->
+                <!-- FRILANDS RESTAURANT -->
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="single-work text-center mt-30">
+                        <div class="work-image">
+                            <img src="assets/images/work/frilands-restaurant-logo.jpg" alt="work">
+                        </div>
+                        <div class="work-overlay">
+                            <div class="work-content">
+                                <h3 class="work-title">Frilandsmuseets Café</h3>
+                                <ul>
+                                    <li><a class="image-popup" href="assets/images/work/frilands-restaurant-page.jpg"><span class="icon-eye"></span></a></li>
+                                    <li><a href="https://frilands-restaurant.dk" target="_blank"><span class="icon-link"></span></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div> <!-- single work -->
+                </div>
+                <!-- END OF FRILANDS RESTAURANT -->
                 <!-- MIAA -->
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-work text-center mt-30">
@@ -534,7 +624,6 @@
                                 <h3 class="work-title">We Movers</h3>
                                 <ul>
                                     <li><a class="image-popup" href="assets/images/work/wemovers.JPG"><span class="icon-eye"></span></a></li>
-                                    <li><a href="http://wemovers.ph/" target="_blank"><span class="icon-link "></span></a></li> 
                                 </ul>
                             </div>
                         </div>
@@ -595,24 +684,6 @@
                     </div> <!-- single work -->
                 </div>
                 <!-- END OF MOTOMALL-->
-                <!-- UWON-->
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-work text-center mt-30">
-                        <div class="work-image">
-                            <img src="assets/images/work/uwon-logo.jpg" alt="work">
-                        </div>
-                        <div class="work-overlay">
-                            <div class="work-content">
-                                <h3 class="work-title">UWON</h3>
-                                <ul>
-                                    <li><a class="image-popup" href="assets/images/work/uwon-page.jpg"><span class="icon-eye"></span></a></li>
-                                    <li><a href="http://uwon-logistics.herokuapp.com/" target="_blank"><span class="icon-link"></span></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div> <!-- single work -->
-                </div>
-                <!-- END OF UWON-->
               
             </div> <!-- row -->
  
