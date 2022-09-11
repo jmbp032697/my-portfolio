@@ -787,7 +787,7 @@
                             <a href="index.html">
                                 <img src="assets/images/logo-white.png" alt="Logo">
                             </a>
-                            <p>Please contact me immediately for a business meeting, Thank you for your time. Follow me on my social media accounts.</p>
+                            <p>Please contact me immediately for a business meeting, Thank you for your time. <br> Follow me on my social media accounts.</p>
                             <ul>
                                 <li><a href="https://www.facebook.com/matmakulet" target="_blank"><span class="icon-facebook"></span></a></li>
                                 <li><a href="https://www.instagram.com/matmakulet/" target="_blank"><span class="icon-instagram"></span></a></li>
